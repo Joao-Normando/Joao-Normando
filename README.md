@@ -1,5 +1,11 @@
-### Hi there 👋
+## João Normando :computer:
+Estudante de Sistemas de Informações , Welcome to my world :earth_americas:
 
+Developing since 2018
+
+[![Linkedin Badge](https://img.shields.io/badge/-Joao%20Normando-2233cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaonormando/)](https://www.linkedin.com/in/joaonormando/)
+
+[![Gmail Badge](https://img.shields.io/badge/-joao.normando@maisunifacisa.com.br-2233cc?style=flat-square&logo=Gmail&logoColor=red&link=mailto:joao.normando@maisunifacisa.com.br)](mailto:joao.normando@maisunifacisa.com.br)
 <!--
 **Joao-Normando/Joao-Normando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,5 +1,5 @@
 ## João Normando :computer:
-Estudante de Sistemas de Informações , Welcome to my world :earth_americas:
+Estudante de Sistemas de Informações. Welcome to my world :earth_americas:
 
 Developing since 2018
 

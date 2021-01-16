@@ -1,6 +1,6 @@
 ### Graduando Sistemas de Informações :computer:  Welcome to my world :earth_americas:
 
-Developing since 2018
+Developing since 2019
 
 [![Linkedin Badge](https://img.shields.io/badge/-Joao%20Normando-2233cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaonormando/)](https://www.linkedin.com/in/joaonormando/)
 

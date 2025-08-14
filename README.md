@@ -4,7 +4,7 @@ Developing since 2019
 
 [![Linkedin Badge](https://img.shields.io/badge/-Joao%20Normando-2233cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaonormando/)](https://www.linkedin.com/in/joaonormando/)
 
-[![Gmail Badge](https://img.shields.io/badge/-joao.normando@maisunifacisa.com.br-2233cc?style=flat-square&logo=Gmail&logoColor=red&link=mailto:joao.normando@maisunifacisa.com.br)](mailto:joao.normando@maisunifacisa.com.br)
+[![Gmail Badge](https://img.shields.io/badge/-joao.normando@hotmail.com-2233cc?style=flat-square&logo=Gmail&logoColor=red&link=mailto:joao.normando@hotmail.com)](mailto:joao.normando@hotmail.com)
 <!--
 **Joao-Normando/Joao-Normando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

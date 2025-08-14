@@ -1,4 +1,4 @@
-### Graduando Sistemas de Informações :computer:  Welcome to my world :earth_americas:
+### Bacharel in Sistemas de Informações :computer:  Welcome to my world :earth_americas:
 
 Developing since 2019
 
